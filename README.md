@@ -1,5 +1,6 @@
 <div align="center">
   <img align="center" src="https://i.pinimg.com/originals/44/95/fa/4495faf0a312a5563bda9afdcca4387f.gif" alt="Hii!!" height="400" style="border-radius:5px;" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemika-Haj&theme=synthwave&layout=compact" height=160 style="margin-top:10px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=Nemika-Haj&show_icons=true&theme=synthwave&count_private=true" height=160 />
 
