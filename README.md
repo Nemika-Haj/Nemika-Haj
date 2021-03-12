@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nemika-Haj&repo=MadLibsPy&theme=synthwave" height="110" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nemika-Haj&repo=WolframAlpha.py&theme=synthwave" height="110" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nemika-Haj&repo=PyJS&theme=synthwave" height="127" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WizzyGeek&repo=PyCpp&theme=synthwave" height="130" width="370" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nemika-Haj&repo=BytesToBitsAPI&theme=synthwave" height="130" width="370" />
 
 <hr>
 <br>
