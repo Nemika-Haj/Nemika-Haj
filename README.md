@@ -3,7 +3,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemika-Haj&theme=synthwave&layout=compact&langs_count=10" height=160 style="margin-top:10px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=Nemika-Haj&show_icons=true&theme=synthwave&count_private=true" height=160 />
-
+  <br>
   <img src="https://img.shields.io/badge/Py-Python-048ef1?style=for-the-badge&logo=Python&labelColor=f6b50a" />
   <img src="https://img.shields.io/badge/JS-JavaScript-black?style=for-the-badge&logo=JavaScript" />
   <img src="https://img.shields.io/badge/PugJS-ae6f5d?style=for-the-badge&logo=Pug&labelColor=ffffff" />
