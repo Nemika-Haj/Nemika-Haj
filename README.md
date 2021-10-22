@@ -4,10 +4,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemika-Haj&theme=synthwave&layout=compact&langs_count=10" height=160 style="margin-top:10px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=Nemika-Haj&show_icons=true&theme=synthwave&count_private=true" height=160 />
   <br>
-  <img src="https://img.shields.io/badge/Py-Python-048ef1?style=for-the-badge&logo=Python&labelColor=f6b50a" />
-  <img src="https://img.shields.io/badge/TS-TypeScript-blue?style=for-the-badge&logo=TypeScript" />
-  <img src="https://img.shields.io/badge/JS-JavaScript-black?style=for-the-badge&logo=JavaScript" />
-  <img src="https://img.shields.io/badge/PugJS-ae6f5d?style=for-the-badge&logo=Pug&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/Py-Python-28557c?style=for-the-badge&logo=Python&labelColor=ffd949" />
+  <img src="https://img.shields.io/badge/TS-TypeScript-3178c6?style=for-the-badge&logo=TypeScript&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/RS-RUST-ea4b00?style=for-the-badge&logo=Rust&labelColor=000000" />
 <hr>
   <h2 style="margin-top:20px;">Well, uh, here are a few of my projects</h2>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nemika-Haj&repo=BytesBump&theme=synthwave" height="110" />
