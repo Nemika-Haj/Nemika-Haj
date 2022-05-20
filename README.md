@@ -22,7 +22,6 @@
 
 <h1> A few more info about me </h1>
 <ul style="font-size:20px;">
-<li> I am a she 💖
 <li> I own a Discord server actually, <a href="https://bytestobits.dev/discord/" target="_blank">BytesToBits | Coding</a>!
 <li> Reference to the one above, I also have an <a href="https://api.bytestobits.dev/" target="_blank">API</a>!
 </ul>
