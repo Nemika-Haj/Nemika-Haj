@@ -18,9 +18,26 @@
   <br><br>
   <hr/>
   <br>
-<div style="display:flex; gap: 10px;">
-<a href="https://bytestobits.dev/" target="_blank">
-<img src="https://bytestobits.dev/assets/brand/BTB_HEAD_T.png" height=70 style="border-radius:50%; background:#15262E; padding: 5px" />
+<div style="display:flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+<a href="https://guess-the-champs.nemika.me/" target="_blank" style="margin: 5px;">
+<img src="https://storage.nemika.me/GuessTheLeagueChampion.png" height="80" />
 </a>
+
+<a href="https://owsketch.com/" target="_blank" style="margin: 5px;">
+<img src="https://owsketch.com/logo.png" height="150" />
+</a>
+
+<a href="https://fuckjs.nemika.me/" target="_blank" style="margin: 5px;">
+<img src="https://storage.nemika.me/FuckJs.png" height="50" />
+</a>
+
+<a href="https://triviamasters.nemika.me/" target="_blank" style="margin: 5px;">
+<img src="https://triviamasters.nemika.me/triviamasters.png" height="90" />
+</a>
+
+<a href="https://supervivedle.com/" target="_blank" style="margin: 5px;">
+<img src="https://supervivedle.com/banner.png" height="90" />
+</a>
+
 </div>
 </div>
